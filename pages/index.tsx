@@ -12,7 +12,7 @@ const Div = styled.div`
 export default function Home({ }: Props) {
   return (
     <Div>
-      <h1>hi it's mid-merchant-frontend</h1>
+      <h1>hi it's mid-merchant index</h1>
     </Div>
   )
 }
